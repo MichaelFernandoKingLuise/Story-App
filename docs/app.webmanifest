@@ -1,7 +1,7 @@
 {
   "id": "/",
-  "start_url": "/MichaelFernandoKingLuise/Story-App/",
-  "scope": "/",
+  "start_url": "/Story-App/",
+  "scope": "/Story-App/",
   "name": "Story App",
   "short_name": "Story",
   "description": "A story sharing app that allows users to share their stories with others, enhanced by location-based features. Users can write and share their personal stories, view stories from other users around them, and explore content based on geographic locations.",
