@@ -1,6 +1,6 @@
 {
   "id": "/#/",
-  "start_url": "/#/",
+  "start_url": "/home",
   "scope": "/",
   "name": "Story App",
   "short_name": "Story",
@@ -89,7 +89,7 @@
       "name": "Add Story",
       "short_name": "Add",
       "description": "Add New Story.",
-      "url": "/?source=pwa#/add-story",
+      "url": "/add-story",
       "icons": [
         {
           "src": "images/icons/add-x512.png",
@@ -102,7 +102,7 @@
       "name": "Saved Story",
       "short_name": "Saved",
       "description": "View Saved Stories.",
-      "url": "/?source=pwa#/saved-stories",
+      "url": "/saved-stories",
       "icons": [
         {
           "src": "images/icons/bookmark-x512.png",
